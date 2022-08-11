@@ -1,0 +1,173 @@
+body{
+    margin: 0;
+}
+.left-section{
+    width: 50%;
+    height: 675px;
+    background-color: #fafafa;
+    float: left;
+}
+.bg{
+    width: 465.31px;
+    height: 633.15px;
+    margin-left: 143px;
+    margin-top: 32px;
+    
+}
+.img{
+    width: 250px;
+    height: 538.84;
+    margin-left: 300px;
+    margin-top: 56px;
+    position: absolute;
+}
+.right-section{
+    width: 50%;
+    height: 675px;
+    background-color: #fafafa;
+    float: left;
+}
+.login-section{
+    width: 350px;
+    height: 375px;
+    color: #fff;
+    float: left;
+    margin-top: 20px;
+    border: 1px solid;
+    border-color: #dbdbdb;
+}
+.logo{
+    width: 175px;
+    height: 51px;
+    margin-left: 87.5px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.input{
+    width: 290px;
+    height: 34px;
+    margin-left: 30px;
+    margin-top: 5px;
+}
+.submit{
+    width: 298px;
+    height: 30px;
+    margin-left: 30px;
+    margin-top: 10px;
+    color: #fff;
+    background-color: #0095f6;
+    background-color: rgba(0,149,246,.3);
+    opacity: 1;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+.or{
+    width: 268px;
+    height: 15px;
+    margin-left: 41px;
+    margin-top: 20px;
+}
+.line1{
+    width: 107px;
+    float: left;
+}
+.orin{
+    width: 39px;
+    height: 15px;
+    padding-left: 15px;
+    float: left;
+    color: #8e8e8e;
+}
+.line2{
+    width: 107px;
+    float: left;
+}
+.fb{
+    margin-top: 20px;
+    margin-left: 100px;
+    float: left;
+    color: #385185;
+    text-decoration: none;
+}
+.fbicon{
+    width: 10px;
+    height: 10px;
+}
+.forgot{
+    margin-left: 125px;
+    text-decoration: none;
+    color: rgba(var(--fe0,0,55,107),1);
+    font-size: small;
+}
+.sign-up{
+    width: 280px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 70px;
+    margin-top: 10px;
+    float: left;
+    border: 1px solid;
+    border-color: #dbdbdb;
+}
+.get-app{
+    width: 350px;
+    height: 100px;
+    margin-top: 10px;
+    float: left;
+}
+.app{
+    margin-top: 20px;
+    margin-left: 140px;
+    float: left;
+}
+.appstore{
+    margin-left: 40px;
+    width: 136px;
+    height: 40px;
+}
+.playstore{
+    width: 136px;
+    height: 40px;
+}
+.footer{
+    width: 100%;
+    height: 200px;
+    background:#fff;
+    float: left;
+    color: #8e8e8e;
+    font-size: 12px;
+    font-weight: 400;
+    
+}
+.foot1{
+    width: 100%;
+    height: 23px;
+    float: left;
+    display: flex;
+    justify-content: center;
+}
+.foot2{
+    width: 100%;
+    height: 23px;
+    float: left;
+    display: flex;
+    justify-content: center;
+}
+.foot3{
+    width: 100%;
+    height: 23px;
+    float: left;
+    margin-top: 12px;
+    display: flex;
+    justify-content: center;
+}
+.lang{
+    color: #8e8e8e;
+    font-size: 12px;
+    font-weight: 400;
+    border-color: #fff;
+    margin-right: 15px;
+}
+.mn{
+    margin-left: 15px;
+}
